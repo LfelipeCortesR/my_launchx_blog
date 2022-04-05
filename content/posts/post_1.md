@@ -1,6 +1,6 @@
 ---
 title: "Mi ruta de aprendizaje en launch-X"
-date: 2022-03-01
+date: 2022-03-05
 description: 'Te contare mi travesia en Launch-X de Innovación Virtual'
 ---
 
